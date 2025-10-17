@@ -10,4 +10,5 @@ if(num<0){
 } else{
   printf("Es cero");
 }
-
+return 0;
+}
